@@ -21,7 +21,7 @@ requires = ["uv_build>=0.12.5,<0.13.0"]
 build-backend = "uv_build"
 
 [tool.ruff]
-indent-width = 2
+# indent-width = 2
 # Set the line length for both the linter and formatter
 line-length = 100
 
