@@ -2,7 +2,7 @@
 
 An exploratory data analysis project using COVID-19 time-series dataset (confirmed, deaths, and recovered cases across various Provinces from ~190 countries, Jan 2020–May 2021) to investigate the spread, progression, and impact of the pandemic across countries and regions.
 
-**[View the full notebook with rendered output here.](#https://nbviewer.org/github/chetanchandel31/da-covid19/blob/main/notebooks/01_covid_19_analysis.ipynb?flush_cache=true)** 
+**[View the full notebook with rendered output here.](https://nbviewer.org/github/chetanchandel31/da-covid19/blob/main/notebooks/01_covid_19_analysis.ipynb?flush_cache=true)**
 
 ## Questions Explored
 
