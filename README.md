@@ -2,7 +2,17 @@
 
 An exploratory data analysis project using COVID-19 time-series dataset (confirmed, deaths, and recovered cases across various Provinces from ~190 countries, Jan 2020–May 2021) to investigate the spread, progression, and impact of the pandemic across countries and regions.
 
-**[View the full notebook with rendered output here.](https://nbviewer.org/github/chetanchandel31/da-covid19/blob/main/notebooks/01_covid_19_analysis.ipynb?flush_cache=true)**
+**[View the full notebook with rendered output here.](https://github.com/chetanchandel31/da-covid19/blob/main/notebooks/01_covid_19_analysis.ipynb)**
+
+## Dataset
+
+The dataset consists of three related Excel sheets covering global COVID-19 case data:
+
+- Confirmed Cases
+- Deaths
+- Recovered Cases
+
+Each sheet is in a wide-format, one row per `Province/State`/`Country/Region` combination, with daily cumulative totals as columns, alongside `Lat`/`Long` coordinates. The data covers January 22, 2020 to May 29, 2021, across ~190 countries.
 
 ## Questions Explored
 
@@ -18,7 +28,6 @@ The analysis investigates questions including:
 - Which countries had the highest total deaths overall?
 - Which 5 countries experienced the highest average daily deaths?
 - How did total deaths evolve over time in the United States?
-
 - What were the monthly trends in confirmed cases, deaths, and recoveries globally?
 - How did those monthly trends compare specifically for the US, Italy, and Brazil?
 - Which countries had the highest average death rates during 2020?
